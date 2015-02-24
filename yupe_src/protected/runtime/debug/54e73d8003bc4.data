@@ -1,0 +1,141 @@
+a:6:{s:6:"config";a:4:{s:10:"phpVersion";s:17:"5.5.12-2ubuntu4.2";s:10:"yiiVersion";s:6:"1.1.16";s:11:"application";a:4:{s:3:"yii";s:6:"1.1.16";s:4:"name";s:5:"Yupe!";s:8:"timezone";s:13:"Europe/Moscow";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:17:"5.5.12-2ubuntu4.2";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}}s:7:"request";a:13:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:9:{s:4:"Host";s:14:"192.168.56.101";s:10:"Connection";s:10:"keep-alive";s:6:"Accept";s:3:"*/*";s:16:"X-Requested-With";s:14:"XMLHttpRequest";s:10:"User-Agent";s:109:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36";s:7:"Referer";s:47:"http://192.168.56.101/backend/plantravel/flight";s:15:"Accept-Encoding";s:19:"gzip, deflate, sdch";s:15:"Accept-Language";s:35:"ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4";s:6:"Cookie";s:217:"YUPE_TOKEN=70a98c7e9913818ad7cc60b55f60e815faaa1ab9s%3A40%3A%2211e464508b6e5e42c792bea4ab43fbf8d827d89b%22%3B; PHPSESSID=eqearmeqf6h5ei2hnrul6futd3; language=891fc5bb358e5d2cc3c9014b24ed0804ff95c334s%3A2%3A%22ru%22%3B";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:21:"PHP/5.5.12-2ubuntu4.2";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:10:"Set-Cookie";a:2:{i:0;s:74:"language=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/";i:1;s:143:"language=891fc5bb358e5d2cc3c9014b24ed0804ff95c334s%3A2%3A%22ru%22%3B; expires=Sat, 20-Feb-2016 13:58:24 GMT; Max-Age=31536000; path=/; httponly";}s:12:"Content-type";s:9:"text/html";}s:5:"route";s:30:"plantravel/flightBackend/index";s:6:"action";s:38:"FlightBackendController::actionIndex()";s:12:"actionParams";a:1:{s:4:"ajax";s:11:"flight-grid";}s:6:"SERVER";a:37:{s:28:"REDIRECT_gzip-only-text/html";s:1:"1";s:15:"REDIRECT_STATUS";s:3:"200";s:19:"gzip-only-text/html";s:1:"1";s:9:"HTTP_HOST";s:14:"192.168.56.101";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_ACCEPT";s:3:"*/*";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:15:"HTTP_USER_AGENT";s:109:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36";s:12:"HTTP_REFERER";s:47:"http://192.168.56.101/backend/plantravel/flight";s:20:"HTTP_ACCEPT_ENCODING";s:19:"gzip, deflate, sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4";s:11:"HTTP_COOKIE";s:217:"YUPE_TOKEN=70a98c7e9913818ad7cc60b55f60e815faaa1ab9s%3A40%3A%2211e464508b6e5e42c792bea4ab43fbf8d827d89b%22%3B; PHPSESSID=eqearmeqf6h5ei2hnrul6futd3; language=891fc5bb358e5d2cc3c9014b24ed0804ff95c334s%3A2%3A%22ru%22%3B";s:4:"PATH";s:60:"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:22:"Apache/2.4.10 (Ubuntu)";s:11:"SERVER_NAME";s:14:"192.168.56.101";s:11:"SERVER_ADDR";s:14:"192.168.56.101";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:12:"192.168.56.1";s:13:"DOCUMENT_ROOT";s:20:"/var/www/yupe/public";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:20:"/var/www/yupe/public";s:12:"SERVER_ADMIN";s:19:"webmaster@localhost";s:15:"SCRIPT_FILENAME";s:30:"/var/www/yupe/public/index.php";s:11:"REMOTE_PORT";s:5:"56134";s:21:"REDIRECT_QUERY_STRING";s:16:"ajax=flight-grid";s:12:"REDIRECT_URL";s:26:"/backend/plantravel/flight";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:16:"ajax=flight-grid";s:11:"REQUEST_URI";s:43:"/backend/plantravel/flight?ajax=flight-grid";s:11:"SCRIPT_NAME";s:10:"/index.php";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1424440703.921;s:12:"REQUEST_TIME";i:1424440703;}s:3:"GET";a:1:{s:4:"ajax";s:11:"flight-grid";}s:4:"POST";a:0:{}s:6:"COOKIE";a:3:{s:10:"YUPE_TOKEN";s:88:"70a98c7e9913818ad7cc60b55f60e815faaa1ab9s:40:"11e464508b6e5e42c792bea4ab43fbf8d827d89b";";s:9:"PHPSESSID";s:26:"eqearmeqf6h5ei2hnrul6futd3";s:8:"language";s:49:"891fc5bb358e5d2cc3c9014b24ed0804ff95c334s:2:"ru";";}s:5:"FILES";a:0:{}s:7:"SESSION";a:12:{s:40:"bf6848ad0fda170aae71ea73e2bc2632language";s:2:"ru";s:43:"bf6848ad0fda170aae71ea73e2bc2632__returnUrl";s:33:"/backend/plantravel/flight/create";s:34:"bf6848ad0fda170aae71ea73e2bc2632id";s:1:"1";s:44:"bf6848ad0fda170aae71ea73e2bc2632access_level";s:1:"1";s:41:"bf6848ad0fda170aae71ea73e2bc2632nick_name";s:6:"Sergey";s:43:"bf6848ad0fda170aae71ea73e2bc2632modSettings";a:0:{}s:36:"bf6848ad0fda170aae71ea73e2bc2632__id";s:1:"1";s:38:"bf6848ad0fda170aae71ea73e2bc2632__name";s:6:"Sergey";s:40:"bf6848ad0fda170aae71ea73e2bc2632__states";a:0:{}s:49:"bf6848ad0fda170aae71ea73e2bc2632adm_check_attempt";i:3;s:45:"bf6848ad0fda170aae71ea73e2bc2632badLoginCount";i:0;s:41:"bf6848ad0fda170aae71ea73e2bc2632__timeout";i:1424503104;}}s:3:"log";a:1:{s:8:"messages";a:50:{i:0;a:4:{i:0;s:195:"Loading "urlManager" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (36)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440703.9782341;}i:1;a:4:{i:0;s:321:"Loading "yupe" module
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LangUrlManager.php (129)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LangUrlManager.php (46)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (36)";i:1;s:5:"trace";i:2;s:19:"system.base.CModule";i:3;d:1424440703.9800351;}i:2;a:4:{i:0;s:277:"Loading "db" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (1004)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (987)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/YupeModule.php (648)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440703.982152;}i:3;a:4:{i:0;s:264:"Opening DB connection
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (1004)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (987)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/YupeModule.php (648)";i:1;s:5:"trace";i:2;s:23:"system.db.CDbConnection";i:3;d:1424440703.982296;}i:4;a:4:{i:0;s:481:"Querying SQL: 
+                    SELECT param_name, param_value
+                        FROM yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    . Bound with :module_id='yupe', :type=1
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (1015)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (987)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/YupeModule.php (648)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1424440703.987385;}i:5;a:4:{i:0;s:280:"Loading "cache" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (1015)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (987)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/YupeModule.php (648)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440703.987453;}i:6;a:4:{i:0;s:576:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=PlanTravel:root:
+                    SELECT param_name, param_value
+                        FROM yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    :a:2:{s:10:":module_id";s:4:"yupe";s:5:":type";i:1;}" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (1015)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (987)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/YupeModule.php (648)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440703.9983001;}i:7;a:4:{i:0;s:270:"Query result found in cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (1015)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/WebModule.php (987)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/YupeModule.php (648)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1424440703.9983721;}i:8;a:4:{i:0;s:294:"Serving "Yii.CUrlManager.rules" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LangUrlManager.php (83)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (36)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.005652;}i:9;a:4:{i:0;s:294:"Serving "Yii.CUrlManager.rules" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LangUrlManager.php (87)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (36)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.012897;}i:10;a:4:{i:0;s:89:"Loading "debug" application component
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0137069;}i:11;a:4:{i:0;s:291:"Loading "log" application component
+in /media/sf_shareIt/yupe_src/vendor/zhuravljov/yii2-debug/Yii2DebugPanel.php (279)
+in /media/sf_shareIt/yupe_src/vendor/zhuravljov/yii2-debug/Yii2DebugPanel.php (111)
+in /media/sf_shareIt/yupe_src/vendor/zhuravljov/yii2-debug/panels/Yii2LogPanel.php (24)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0171189;}i:12;a:4:{i:0;s:276:"Loading "request" application component
+in /media/sf_shareIt/yupe_src/vendor/zhuravljov/yii2-debug/Yii2Debug.php (294)
+in /media/sf_shareIt/yupe_src/vendor/zhuravljov/yii2-debug/Yii2Debug.php (167)
+in /media/sf_shareIt/yupe_src/vendor/zhuravljov/yii2-debug/Yii2Debug.php (115)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0196121;}i:13;a:4:{i:0;s:351:"Loading "securityManager" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (53)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (82)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (112)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0218141;}i:14;a:4:{i:0;s:350:"Loading "statePersister" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (53)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (82)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (112)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.02195;}i:15;a:4:{i:0;s:399:"Serving "Yii.CStatePersister./media/sf_shareIt/yupe_src/protected/runtime/state.bin" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (53)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (82)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (112)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.0313671;}i:16;a:4:{i:0;s:292:"Loading "user" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (207)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (165)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0319209;}i:17;a:4:{i:0;s:295:"Loading "session" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (207)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/urlManager/LanguageBehavior.php (165)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.033555;}i:18;a:4:{i:0;s:79:"Loading "plantravel" module
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:19:"system.base.CModule";i:3;d:1424440704.0345221;}i:19;a:4:{i:0;s:193:"Loading "bootstrap" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/BackController.php (72)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0410459;}i:20;a:4:{i:0;s:330:"Loading "clientScript" application component
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/components/Booster.php (420)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/components/Booster.php (212)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/BackController.php (72)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0462821;}i:21;a:4:{i:0;s:323:"Loading "assetManager" application component
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/components/Booster.php (413)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/components/packages.php (14)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/components/Booster.php (260)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.046417;}i:22;a:4:{i:0;s:192:"Loading "messages" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/BackController.php (75)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0547471;}i:23;a:4:{i:0;s:196:"Loading "errorHandler" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/BackController.php (78)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.056128;}i:24;a:4:{i:0;s:196:"Loading "eventManager" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/BackController.php (81)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0562191;}i:25;a:4:{i:0;s:107:"Running filter yupe\filters\YBackAccessControl.filter()
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:31:"system.web.filters.CFilterChain";i:3;d:1424440704.0637729;}i:26;a:4:{i:0;s:112:"Running filter FlightBackendController.filteraccessControl()
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:31:"system.web.filters.CFilterChain";i:3;d:1424440704.063971;}i:27;a:4:{i:0;s:175:"Serving "yupe::user::rbac::1" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/user/components/YWebUser.php (309)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.0674989;}i:28;a:4:{i:0;s:193:"Loading "migrator" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/BackController.php (104)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.0675919;}i:29;a:4:{i:0;s:332:"Serving "yii:dbschemamysql:host=127.0.0.1;port=3306;dbname=PlanTravel:root:migrations" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/Migrator.php (42)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/BackController.php (104)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.0722611;}i:30;a:4:{i:0;s:305:"Serving "__tag__getMigrationHistory" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/extensions/tagcache/TagsCache.php (54)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/Migrator.php (392)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/Migrator.php (470)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.081784;}i:31;a:4:{i:0;s:289:"Serving "getMigrationHistory" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/Migrator.php (392)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/Migrator.php (470)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/Migrator.php (514)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.08184;}i:32;a:4:{i:0;s:257:"Serving "yii:dbschemamysql:host=127.0.0.1;port=3306;dbname=PlanTravel:root:{{pt_flight}}" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (157)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.1084449;}i:33;a:4:{i:0;s:201:"Loading "themeManager" application component
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.1086299;}i:34;a:4:{i:0;s:201:"Loading "viewRenderer" application component
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.1162231;}i:35;a:4:{i:0;s:268:"Airport.findAll()
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (47)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1424440704.2608571;}i:36;a:4:{i:0;s:352:"Serving "yii:dbschemamysql:host=127.0.0.1;port=3306;dbname=PlanTravel:root:{{pt_airport}}" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (47)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.2640569;}i:37;a:4:{i:0;s:295:"Querying SQL: SELECT * FROM `pt_airport` `t`
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (47)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1424440704.2642751;}i:38;a:4:{i:0;s:268:"Airport.findAll()
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (53)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1424440704.264765;}i:39;a:4:{i:0;s:295:"Querying SQL: SELECT * FROM `pt_airport` `t`
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (53)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1424440704.2649231;}i:40;a:4:{i:0;s:273:"TypeOfFlight.findAll()
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (59)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1424440704.2717161;}i:41;a:4:{i:0;s:357:"Serving "yii:dbschemamysql:host=127.0.0.1;port=3306;dbname=PlanTravel:root:{{pt_typeOfFlight}}" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (59)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.275264;}i:42;a:4:{i:0;s:300:"Querying SQL: SELECT * FROM `pt_typeOfFlight` `t`
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (59)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)
+in /media/sf_shareIt/yupe_src/public/index.php (35)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1424440704.275399;}i:43;a:4:{i:0;s:341:"Loading "widgetFactory" application component
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/Controller.php (141)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/views/flightBackend/index.php (66)
+in /media/sf_shareIt/yupe_src/protected/modules/plantravel/controllers/FlightBackendController.php (163)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.297565;}i:44;a:4:{i:0;s:293:"Flight.count()
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbGridView.php (68)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbExtendedGridView.php (234)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/widgets/CustomGridView.php (201)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1424440704.307492;}i:45;a:4:{i:0;s:329:"Querying SQL: SELECT COUNT(*) FROM `pt_flight` `t`
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbGridView.php (68)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbExtendedGridView.php (234)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/widgets/CustomGridView.php (201)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1424440704.3076301;}i:46;a:4:{i:0;s:295:"Flight.findAll()
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbGridView.php (68)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbExtendedGridView.php (234)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/widgets/CustomGridView.php (201)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1424440704.3081601;}i:47;a:4:{i:0;s:345:"Querying SQL: SELECT * FROM `pt_flight` `t` ORDER BY t.id LIMIT 10
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbGridView.php (68)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbExtendedGridView.php (234)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/widgets/CustomGridView.php (201)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1424440704.308316;}i:48;a:4:{i:0;s:325:"Loading "coreMessages" application component
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbButtonColumn.php (44)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbGridView.php (125)
+in /media/sf_shareIt/yupe_src/vendor/clevertech/yii-booster/src/widgets/TbGridView.php (68)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1424440704.3473001;}i:49;a:4:{i:0;s:299:"Serving "YAdminPanel::1::ru" from cache
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/widgets/YAdminPanel.php (29)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/components/controllers/Controller.php (141)
+in /media/sf_shareIt/yupe_src/protected/modules/yupe/views/layouts/main.php (94)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1424440704.4810879;}}}s:9:"profiling";a:3:{s:6:"memory";i:3856912;s:4:"time";d:0.57344889640808105;s:8:"messages";a:10:{i:0;a:4:{i:0;s:64:"begin:system.db.CDbCommand.query(SELECT * FROM `pt_airport` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.2643061;}i:1;a:4:{i:0;s:62:"end:system.db.CDbCommand.query(SELECT * FROM `pt_airport` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.2645819;}i:2;a:4:{i:0;s:64:"begin:system.db.CDbCommand.query(SELECT * FROM `pt_airport` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.264941;}i:3;a:4:{i:0;s:62:"end:system.db.CDbCommand.query(SELECT * FROM `pt_airport` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.265229;}i:4;a:4:{i:0;s:69:"begin:system.db.CDbCommand.query(SELECT * FROM `pt_typeOfFlight` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.275418;}i:5;a:4:{i:0;s:67:"end:system.db.CDbCommand.query(SELECT * FROM `pt_typeOfFlight` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.275635;}i:6;a:4:{i:0;s:70:"begin:system.db.CDbCommand.query(SELECT COUNT(*) FROM `pt_flight` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.3076551;}i:7;a:4:{i:0;s:68:"end:system.db.CDbCommand.query(SELECT COUNT(*) FROM `pt_flight` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.3080189;}i:8;a:4:{i:0;s:86:"begin:system.db.CDbCommand.query(SELECT * FROM `pt_flight` `t` ORDER BY t.id LIMIT 10)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.3083379;}i:9;a:4:{i:0;s:84:"end:system.db.CDbCommand.query(SELECT * FROM `pt_flight` `t` ORDER BY t.id LIMIT 10)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.3086181;}}}s:2:"db";a:2:{s:8:"messages";a:10:{i:0;a:4:{i:0;s:64:"begin:system.db.CDbCommand.query(SELECT * FROM `pt_airport` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.2643061;}i:1;a:4:{i:0;s:62:"end:system.db.CDbCommand.query(SELECT * FROM `pt_airport` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.2645819;}i:2;a:4:{i:0;s:64:"begin:system.db.CDbCommand.query(SELECT * FROM `pt_airport` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.264941;}i:3;a:4:{i:0;s:62:"end:system.db.CDbCommand.query(SELECT * FROM `pt_airport` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.265229;}i:4;a:4:{i:0;s:69:"begin:system.db.CDbCommand.query(SELECT * FROM `pt_typeOfFlight` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.275418;}i:5;a:4:{i:0;s:67:"end:system.db.CDbCommand.query(SELECT * FROM `pt_typeOfFlight` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.275635;}i:6;a:4:{i:0;s:70:"begin:system.db.CDbCommand.query(SELECT COUNT(*) FROM `pt_flight` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.3076551;}i:7;a:4:{i:0;s:68:"end:system.db.CDbCommand.query(SELECT COUNT(*) FROM `pt_flight` `t`)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.3080189;}i:8;a:4:{i:0;s:86:"begin:system.db.CDbCommand.query(SELECT * FROM `pt_flight` `t` ORDER BY t.id LIMIT 10)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.3083379;}i:9;a:4:{i:0;s:84:"end:system.db.CDbCommand.query(SELECT * FROM `pt_flight` `t` ORDER BY t.id LIMIT 10)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1424440704.3086181;}}s:11:"connections";a:1:{s:2:"db";a:4:{s:5:"class";s:13:"CDbConnection";s:6:"driver";s:5:"mysql";s:6:"server";s:15:"5.5.40-0ubuntu1";s:4:"info";s:140:"Uptime: 702082  Threads: 3  Questions: 23754  Slow queries: 0  Opens: 2400  Flush tables: 1  Open tables: 103  Queries per second avg: 0.033";}}}s:7:"summary";a:7:{s:3:"tag";s:13:"54e73d8003bc4";s:3:"url";s:64:"http://192.168.56.101/backend/plantravel/flight?ajax=flight-grid";s:4:"ajax";b:1;s:6:"method";s:3:"GET";s:4:"code";i:200;s:2:"ip";s:12:"192.168.56.1";s:4:"time";i:1424440704;}}
